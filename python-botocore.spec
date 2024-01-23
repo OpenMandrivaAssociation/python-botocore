@@ -1,5 +1,5 @@
 Name:		python-botocore
-Version:	1.34.15
+Version:	1.34.25
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/b/botocore/botocore-%{version}.tar.gz
 Summary:	Low-level, data-driven core of boto 3.
