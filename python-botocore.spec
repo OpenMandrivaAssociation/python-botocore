@@ -1,7 +1,7 @@
 %define module botocore
 
 Name:		python-botocore
-Version:	1.42.47
+Version:	1.42.54
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/b/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Low-level, data-driven core of boto 3.
