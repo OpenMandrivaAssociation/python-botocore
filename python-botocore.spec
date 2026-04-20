@@ -1,13 +1,14 @@
 %define module botocore
 
 Name:		python-botocore
-Version:	1.42.54
+Summary:	Low-level, data-driven core of boto 3
+Version:	1.42.92
 Release:	1
-Source0:	https://files.pythonhosted.org/packages/source/b/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
-Summary:	Low-level, data-driven core of boto 3.
-URL:		https://pypi.org/project/botocore/
 License:	Apache-2.0
 Group:		Development/Python
+URL:		https://pypi.org/project/botocore/
+Source0:	https://files.pythonhosted.org/packages/source/b/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
+
 BuildSystem:	python
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools)
