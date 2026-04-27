@@ -2,7 +2,7 @@
 
 Name:		python-botocore
 Summary:	Low-level, data-driven core of boto 3
-Version:	1.42.96
+Version:	1.42.97
 Release:	1
 License:	Apache-2.0
 Group:		Development/Python
